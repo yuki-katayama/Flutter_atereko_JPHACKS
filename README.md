@@ -1,6 +1,6 @@
-# fluttervoicegame
+# Flutter_atereko_JPHACKS
 
-Voice recognition game.
+atereko game
 
 ## Getting Started
 
