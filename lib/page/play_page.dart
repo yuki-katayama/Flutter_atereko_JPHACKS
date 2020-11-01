@@ -20,14 +20,9 @@ const String advanced = 'advanced';
 
 // TODO DBから取得するように変更(記載場所ここではない気がしている)
 const List<String> baseThemeList = [
-  '生麦生米生卵',
-  '隣の客はよく柿食う客だ',
-  'バスガス爆発',
-  '裏庭には二羽ニワトリがいる',
-  '赤パジャマ黄パジャマ青パジャマ',
-  '赤巻紙青巻紙黄巻紙',
-  '老若男女',
-  '旅客機の旅客'
+  'あいうえお',
+  'かきくけこ',
+  'さしすせそ'
 ];
 
 const List<String> advancedThemeList = [
