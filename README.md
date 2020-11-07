@@ -1,8 +1,12 @@
-# サンプル（プロダクト名）
+#2020/11/7 JPHACKS_E_2011
+## サンプル（プロダクト名）
 
 [![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2020/09/JPHACKS2020_ogp.jpg)](https://www.youtube.com/watch?v=G5rULR53uMk)
 
 ## 製品概要
+
+### https://youtu.be/ZQEcqwQFb5o
+
 ### 背景(製品開発のきっかけ、課題等）
 リモートワークやオンライン会議の数が増えている今日、通話越しでも聞き取りやすいように話す必要があるため、活舌を改善し聞き取りやすい話し方をするためのアプリケーション
 ### 製品説明（具体的な製品の説明）
