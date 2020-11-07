@@ -1,16 +1,54 @@
-# Flutter_atereko_JPHACKS
+# サンプル（プロダクト名）
 
-atereko game
+[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2020/09/JPHACKS2020_ogp.jpg)](https://www.youtube.com/watch?v=G5rULR53uMk)
 
-## Getting Started
+## 製品概要
+### 背景(製品開発のきっかけ、課題等）
+リモートワークやオンライン会議の数が増えている今日、通話越しでも聞き取りやすいように話す必要があるため、活舌を改善し聞き取りやすい話し方をするためのアプリケーション
+### 製品説明（具体的な製品の説明）
++ お題の早口言葉を綺麗に言うことで敵を倒していく。
++ レベルは複数ある中から選択可能でランキング機能によってユーザーの継続を促していく
++ カレンダーに１日何体倒したかを記録し、目視で努力を確認する。
 
-This project is a starting point for a Flutter application.
+### 特長
+####1. 特長1　早口言葉を使って敵を倒して進んでいくゲーム性
+####2. 特長2　ランキング機能で過去の自分との比較ができるため自身の成長を実感できる
+####3. 特長3　ゲーム要素があるため苦にならずに続けることが出来る
+####3. 特長3　カレンダーで自分がどの位練習したかを確認できる。
 
-A few resources to get you started if this is your first Flutter project:
+### 解決出来ること
+* 活舌が改善され、テレワークやオンライン会議での会話が聞き取りやすくなり会議などが円滑にすすむ。
+* 滑舌がよくなることで、文章の音読、人の前で話す機会に自信をつけることができる。
+### 今後の展望
+* 言語の種類を追加するなど
+* もう少しゲーム要素を追加する。
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### 注力したこと（こだわり等）
+ユーザーがどのようにしたら継続できるのかのアイデア出しとその実装
+### 注力したこと（こだわり等）
+* 
+* 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 開発技術
+Flutter Dart Firebase
+### 活用した技術
+Flutter Dart Firebase
+#### API・データ
+* 
+* 
+
+#### フレームワーク・ライブラリ・モジュール
+* Flutter
+
+#### デバイス
+* 
+* 
+
+### 独自技術
+#### ハッカソンで開発した独自機能・技術
+* 独自で開発したものの内容をこちらに記載してください
+* 特に力を入れた部分をファイルリンク、またはcommit_idを記載してください。
+
+#### 製品に取り入れた研究内容（データ・ソフトウェアなど）（※アカデミック部門の場合のみ提出必須）
+* 
+* 
